@@ -6,7 +6,7 @@ window.PortfolioSections["projects"] = {
   "type": "projects",
   "enabled": true,
   "height": 35,
-  "padding": 0,
+  "padding": 2.4333,
   "gap": 2,
   "surface": {
     "enabled": true,
